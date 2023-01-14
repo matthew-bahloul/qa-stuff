@@ -13,6 +13,10 @@ Most important stuff:
 My recommendation for a good python foundation is [this udemy course](https://www.udemy.com/course/the-modern-python3-bootcamp/). It's pretty comprehensive, so it doesn't go by quickly.
 
 
+## git
+Learn the basics of git --> [learngitbrancing](https://learngitbranching.js.org/?locale=en_US)
+
+
 ## gherkin
 Most important stuff:
 - Write readable tests in gherkin
@@ -38,7 +42,7 @@ Try to set this up to work with vscode and pycharm (community)
 - [vscode](https://code.visualstudio.com/download)
 - 
 ## Extra stuff
-- a very common interview question is [fizz buzz](https://www.geeksforgeeks.org/fizz-buzz-implementation/) and variations/extensions of it.
+- a very common interview question is [fizz buzz](https://www.geeksforgeeks.org/fizz-buzz-implementation/) and variations/extensions of it. But you should look into other common interview questions too.
 
 
 # Tasks
@@ -48,6 +52,7 @@ Write a tests in the `../features` directory of this repo and automate it. You s
 3. Write a test to go to this site "https://www.saucedemo.com". Pick a random username and password in the page footer to log in. After logging in, confirm that you reached the products page.
 4. Log into "https://www.saucedemo.com", add any time to the cart. Then complete the checkout flow. Confirm that a success message is displayed.
 
+All of your tests need to be written in gherkin.
 
 ## What to do for help
 Create an issue in github, I'll get to it as soon as I can.
