@@ -1,1 +1,8 @@
-
+behave==1.2.6
+greenlet==2.0.1
+parse==1.19.0
+parse-type==0.6.0
+playwright==1.29.1
+pyee==9.0.4
+six==1.16.0
+typing_extensions==4.4.0
