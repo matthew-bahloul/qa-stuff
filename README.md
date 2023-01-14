@@ -40,9 +40,10 @@ look at playwright and how it works
 Try to set this up to work with vscode and pycharm (community)
 - [pycharm](https://www.jetbrains.com/pycharm/download)
 - [vscode](https://code.visualstudio.com/download)
-- 
+
 ## Extra stuff
 - a very common interview question is [fizz buzz](https://www.geeksforgeeks.org/fizz-buzz-implementation/) and variations/extensions of it. But you should look into other common interview questions too.
+- QA is all about general problem solving, so you should be a good general programmer. You don't have to know the most difficult algorithms, but you should be able to sort/find/filter lists, use a while loop with a sentinel, etc.
 
 
 # Tasks
